@@ -1,0 +1,33 @@
+_repo: German-Science-ReaderPhysics-Chemistry-and-Engineering_22627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kroeh, Charles Frederick
+    alias: Kroeh, Charles F.
+    birthdate: 1846
+    deathdate: 1928
+    gutenberg_agent_id: '25454'
+    url: http://www.gutenberg.org/2009/agents/25454
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22627'
+  lccn: '07031446'
+language:
+- en
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PD'
+- !lcsh 'German language -- Readers -- Science'
+- !lcc 'Q'
+title: "German Science Reader\r\nAn Introduction to Scientific German, for Students\
+  \ of Physics, Chemistry and Engineering"
+url: http://www.gutenberg.org/ebooks/22627
