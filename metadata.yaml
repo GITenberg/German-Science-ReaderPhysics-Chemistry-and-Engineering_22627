@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25454'
     url: http://www.gutenberg.org/2009/agents/25454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22627#German-Science-ReaderPhysics-Chemistry-and-Engineering
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2007-09-16'
 gutenberg_type: Text
